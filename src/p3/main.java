@@ -1,5 +1,3 @@
-package p3;
-
 class JoinEx extends Thread {
     public static void main(String[] args) {
         JoinEx t1 = new JoinEx();
